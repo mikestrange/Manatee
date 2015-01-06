@@ -6,7 +6,7 @@ import net.nio.SecurityXMLServer;
 
 
 
-public class Mina {
+public class Manatee {
 
 
 	public static void main(String[] args) throws Exception

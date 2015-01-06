@@ -2,31 +2,31 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-core-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-example-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-filter-compression-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-integration-beans-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-integration-jmx-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-integration-ognl-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-integration-xbean-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-statemachine-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/dist/mina-transport-apr-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/commons-lang-2.6.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/commons-logging-1.0.3.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/javassist-3.7.ga.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/javassist-3.11.0.GA.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/jcl-over-slf4j-1.6.6.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/jzlib-1.1.1.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/mina-example-2.0.7.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/mina-example-2.0.7-sources.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/ognl-3.0.5.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/slf4j-api-1.6.6.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/slf4j-api-1.6.6-sources.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/slf4j-log4j12-1.6.6.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/spring-2.5.6.SEC03.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/tomcat-apr-5.5.23.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/xbean-spring-3.11.1.jar"/>
-	<classpathentry kind="lib" path="G:/javaproject/Mina/lib/sql/mysql-connector-java-5.1.27-bin.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/javassist-3.7.ga.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/jcl-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/jzlib-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/mina-example-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/mina-example-2.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/ognl-3.0.5.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/slf4j-api-1.6.6-sources.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/spring-2.5.6.SEC03.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/tomcat-apr-5.5.23.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/xbean-spring-3.11.1.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/sql/mysql-connector-java-5.1.27-bin.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-example-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-filter-compression-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-integration-beans-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-integration-jmx-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-integration-ognl-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-integration-xbean-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-statemachine-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/github/Manatee/lib/dist/mina-transport-apr-2.0.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
