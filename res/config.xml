@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<root text="只需要解析本xml，就可以布置所有的命令集合">
+	<actions type="1" name="mvc.servlet.LogicServlet">
+		<item cmd="101" text="HEART_BEAT">
+			<action>client.action.HeartBeat</action>
+			<result></result>
+		</item>
+		<item cmd="1001" text="LOAIC_GAME">
+			<action>client.action.LogicAction</action>
+			<result>client.body.LogicObj</result>
+		</item>
+	</actions>
+	<actions type="5" name="mvc.servlet.WorldServlet">
+		<item cmd="2001" text="EnterMap,[map_id,point,tx,ty,x_view_len,y_view_len]">
+			<action>client.action.room.EnterMapAction</action>
+			<result>client.body.room.EnterMapObj</result>
+		</item>
+		<item cmd="2002" text="QuitMap,[map_id]">
+			<action>client.action.room.QuitMapAction</action>
+			<result></result>
+		</item>
+		<!--Actions-->
+		<item cmd="2011" text="moveTo[map_id,point,tx,ty,x_view_len,y_view_len]">
+			<action>client.action.room.MoveSceneAction</action>
+			<result>client.body.room.MoveSceneObj</result>
+		</item>
+		<item cmd="2012" text="showSkill[skill_id] jump=1">
+			<action>client.action.room.ShowSkillAction</action>
+			<result>client.body.room.SkillObj</result>
+		</item>
+		<item cmd="2013" text="showRide[down=0,up=1]">
+			<action>client.action.room.ShowRideAction</action>
+			<result>client.body.room.RideObj</result>
+		</item>
+		<item cmd="2015" text="stand">
+			<action>client.action.room.StandAction</action>
+			<result>client.body.room.StandObj</result>
+		</item>
+	</actions>
+</root>
